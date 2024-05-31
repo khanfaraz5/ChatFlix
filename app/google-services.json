@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "995719563431",
+    "project_id": "chatflix-bcaf2",
+    "storage_bucket": "chatflix-bcaf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995719563431:android:fd7c01c57836e115d77382",
+        "android_client_info": {
+          "package_name": "com.example.chatflix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhKn8KsCz6oCPPbQNGCz4q_TCWcMfNES0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
